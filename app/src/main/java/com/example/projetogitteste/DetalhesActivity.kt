@@ -8,4 +8,6 @@ class DetalhesActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_detalhes)
     }
+
+
 }
